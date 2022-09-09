@@ -27,9 +27,9 @@
 <br />
 <br />
 ·
-<a href="https://github.com/modavidc/yana-challenge/issues">Reportar un error</a>
+<a href="https://github.com/modavidc/yana-api-challenge/issues">Reportar un error</a>
 ·
-<a href="https://github.com/modavidc/yana-challenge/issues">Solicitar una característica</a>
+<a href="https://github.com/modavidc/yana-api-challenge/issues">Solicitar una característica</a>
 
 </p>
 
@@ -46,8 +46,8 @@ Puedes encontrar los requerimientos del reto en el siguiente Notion:
 
 ## 🚀 Configuración del entorno
 
-1. Clonar este proyecto: `git clone https://1github.com/modavidc/yana-challenge`
-2. Moverse a la carpeta del proyecto: `cd yana-challenge`
+1. Clonar este proyecto: `git clone https://1github.com/modavidc/yana-api-challenge`
+2. Moverse a la carpeta del proyecto: `cd yana-api-challenge`
 3. Instalar las dependencias con: `composer install`
 4. Configurar las credenciales de MySQL:
 
@@ -59,7 +59,7 @@ Puedes encontrar los requerimientos del reto en el siguiente Notion:
 
 ## 🔥 Ejecución de la aplicación
 
-1. Moverse a la carpeta del proyecto: `cd yana-challenge`
+1. Moverse a la carpeta del proyecto: `cd yana-api-challenge`
 
 2. Ejecutar el siguiente comando:
     `php -S localhost:8000`
@@ -104,7 +104,7 @@ application
 
 ## 🤝 Contribuciones
 
-Las contribuciones, los problemas y las solicitudes de funciones son bienvenidos. Siéntase libre de comprobar [issues page](https://github.com/modavidc/yana-challenge/issues) si quieres contribuir.<br />
+Las contribuciones, los problemas y las solicitudes de funciones son bienvenidos. Siéntase libre de comprobar [issues page](https://github.com/modavidc/yana-api-challenge/issues) si quieres contribuir.<br />
 
 
 ## 🧑 Créditos:
