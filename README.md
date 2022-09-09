@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<strong>Yana API</strong> que permite hacer inicio de sesión, crear usuarios y consultar el historial de conversaciones de los usuarios. 🗣️🤖.
+<strong>Yana API</strong> permite hacer inicio de sesión, crear usuarios y consultar el historial de conversaciones de los usuarios. 🗣️🤖.
 <br />
 <br />
 ·
