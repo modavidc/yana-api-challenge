@@ -109,7 +109,7 @@ Las contribuciones, los problemas y las solicitudes de funciones son bienvenidos
 
 ## 🧑 Créditos:
 
--   [Íconos de buzones creados por Nikita Golubev - Flaticon](https://www.flaticon.com/free-icons/robot)
+-  Iconos de robots creados por Freepik - Flaticon](https://www.flaticon.com/free-icons/robot)
 
 ## 📝 Licencia
 
